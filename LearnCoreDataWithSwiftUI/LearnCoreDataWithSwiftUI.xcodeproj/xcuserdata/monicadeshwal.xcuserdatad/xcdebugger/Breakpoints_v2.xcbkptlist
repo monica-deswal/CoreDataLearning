@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0773843E-BAE9-44BB-9F20-39EAEBB14AC6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "112FCA32-0F8A-4B78-A784-2C4636BE4553"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearnCoreDataWithSwiftUI/Views/MyListDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "112FCA32-0F8A-4B78-A784-2C4636BE4553 - 7d9cb5bbcd9f5ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(LearnCoreDataWithSwiftUI.ReminderListView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in LearnCoreDataWithSwiftUI.MyListDetailView.body.getter : some"
+                  moduleName = "LearnCoreDataWithSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monicadeshwal/Documents/SwiftUI2024Learning/CoreData/LearnCoreDataWithSwiftUI/LearnCoreDataWithSwiftUI/Views/MyListDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "112FCA32-0F8A-4B78-A784-2C4636BE4553 - 7d9cb5bbcd9f599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(LearnCoreDataWithSwiftUI.ReminderListView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in LearnCoreDataWithSwiftUI.MyListDetailView.body.getter : some"
+                  moduleName = "LearnCoreDataWithSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/monicadeshwal/Documents/SwiftUI2024Learning/CoreData/LearnCoreDataWithSwiftUI/LearnCoreDataWithSwiftUI/Views/MyListDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7BA3B2D-708D-4B00-890E-A955CE71CF58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearnCoreDataWithSwiftUI/Models/ReminderStatsBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "calculateTodaysCount(reminders:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99D07F43-6077-424C-A0E1-93E63CD3833F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearnCoreDataWithSwiftUI/Models/ReminderStatsBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "build(myListResults:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
